@@ -1,6 +1,6 @@
-// main.js - Example usage of minPathSum function
+ // main.js - Example usage of MinPathSum class
 
-import minPathSum from './minPathSum.js';
+import MinPathSum from './minPathSum.js';
 
 /*
 Challenge: Given a matrix of integers, determine the minimum sum to reach from the top-left corner to the bottom-right corner, moving only right or down. Use dynamic programming to optimize the solution.
@@ -12,7 +12,7 @@ function main() {
     [1, 5, 1],
     [4, 2, 1]
   ];
-  const result = minPathSum(grid);
+  const result = MinPathSum.minPathSum(grid);
   console.log('Minimum path sum:', result);
 }
 
