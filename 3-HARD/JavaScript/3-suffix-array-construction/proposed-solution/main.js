@@ -5,7 +5,7 @@ Construct a suffix array and LCP array for a given string to enable efficient pa
 This solution follows DRY principles and is implemented in JavaScript.
 */
 
-import SuffixArray from './SuffixArray.js';
+import SuffixArray from "./SuffixArray.js";
 
 function main() {
   const text = "banana";

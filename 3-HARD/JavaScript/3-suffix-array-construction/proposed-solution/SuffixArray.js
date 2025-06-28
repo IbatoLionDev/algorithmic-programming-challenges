@@ -39,7 +39,11 @@ class SuffixArray {
         continue;
       }
       const j = this.suffixArray[invSuffix[i] + 1];
-      while (i + k < this.n && j + k < this.n && this.text[i + k] === this.text[j + k]) {
+      while (
+        i + k < this.n &&
+        j + k < this.n &&
+        this.text[i + k] === this.text[j + k]
+      ) {
         k++;
       }
       this.lcpArray[invSuffix[i]] = k;
