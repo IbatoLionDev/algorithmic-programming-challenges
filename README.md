@@ -40,7 +40,7 @@ To maintain an organized and scalable project, we suggest the following folder s
 
 The `proposed-solution` folder is exclusive for the solution by the owner @IbatoLionDev. To add your own solutions, please create a folder with your GitHub handle (e.g., `@YourUsername`) at the same level as the `proposed-solution` folder, not inside it. Place your code inside your folder.
 
-If you, as an independent user, feel the need to explain your solution, please prepare an `article.md` file inside your folder.
+If you, as an independent user, feel the need to explain your solution, please prepare an `README.md` file inside your folder.
 
 ---
 
@@ -84,4 +84,4 @@ Para mantener un proyecto organizado y escalable, sugerimos la siguiente estruct
 
 La carpeta `propuesta-solucion` es exclusiva para la solución del propietario @IbatoLionDev. Para añadir tus propias soluciones, crea una carpeta con tu usuario de GitHub (por ejemplo, `@TuUsuario`) al mismo nivel que la carpeta `propuesta-solucion`, no dentro de ella. Coloca tu código dentro de tu carpeta.
 
-Si tú, como usuario independiente, consideras necesario explicar tu solución, por favor prepara un archivo `articulo.md` dentro de tu carpeta.
+Si tú, como usuario independiente, consideras necesario explicar tu solución, por favor prepara un archivo `README.md` dentro de tu carpeta.
